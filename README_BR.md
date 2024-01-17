@@ -1,8 +1,8 @@
-# `Let's talk about: BORN2BEROOT` 💬
+# `Vamos converar sobre o: BORN2BEROOT` 💬
 
 [<img src="https://raw.githubusercontent.com/Chrystian-Natanael/Aleatorios/master/Mycovers/bornop2.png" alt="Born2beroot_banner" width="1000">](https://github.com/Chrystian-Natanael/Aleatorios/blob/master/Mycovers/bornop2.png)
 
-### `Select a language:`
+### `Selecione a linguagem:`
 
 <p align="center">
   <a href="https://github.com/Chrystian-Natanael/Born2beroot/blob/main/README_BR.md">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-## About the project
+## Sobre o projeto
 
 <p align="center">
   <a href="https://github.com/Chrystian-Natanael/Born2beroot">
